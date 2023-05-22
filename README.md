@@ -2,9 +2,9 @@
 improved code version
 
 running 
-'''
+```
 apex_recoil_remaster.py
-''' 
+``` 
 gives you these options.
 #TODO
  - num lock: activate or deactivate the code
