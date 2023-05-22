@@ -1,7 +1,9 @@
 # No_General_recoil
 improved code version
 
-running '''apex_recoil_remaster.py''' gives you these options.
+running 
+'''apex_recoil_remaster.py''' 
+gives you these options.
 #TODO
  - num lock: activate or deactivate the code
  - ctr + 1: soft recoil delete
